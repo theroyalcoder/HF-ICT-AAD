@@ -1,6 +1,5 @@
 #include "priorityqueue.h"
-#include <bits/stdc++.h> //Alle benötigten Includes
-
+#include <iostream>
 /**
  * @brief priorityQueue::priorityQueue
  */

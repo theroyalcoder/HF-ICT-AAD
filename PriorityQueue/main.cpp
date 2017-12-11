@@ -18,12 +18,10 @@
  *==============================================[ EOF RDM ]=============================================================================*/
 
 #define DEBUG
-#include <bits/stdc++.h>
 
+#include <iostream>
 #include "priorityqueue.h"
 
-#include "C:/Users/achim/Documents/Programming/C++/HF-ICT-AAD/myFunks/myFunks/myfunks.h"
-#include "C:/Users/achim/Documents/Programming/C++/HF-ICT-AAD/myFunks/myFunks/debug.h"
 
 using namespace std;
 

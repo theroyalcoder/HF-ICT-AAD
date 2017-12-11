@@ -1,7 +1,7 @@
 #ifndef PRIORITYQUEUE_H
 #define PRIORITYQUEUE_H
 #include <array>
-
+#include <iostream>
 //Array grösse
 #define PQ_SIZE 10
 

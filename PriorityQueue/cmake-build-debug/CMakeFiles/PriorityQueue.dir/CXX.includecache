@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anuuthomson/ClionProjects/HF-ICT-AAD_AG/PriorityQueue/main.cpp
+iostream
+-
+priorityqueue.h
+/Users/anuuthomson/ClionProjects/HF-ICT-AAD_AG/PriorityQueue/priorityqueue.h
+
+/Users/anuuthomson/ClionProjects/HF-ICT-AAD_AG/PriorityQueue/priorityqueue.cpp
+priorityqueue.h
+/Users/anuuthomson/ClionProjects/HF-ICT-AAD_AG/PriorityQueue/priorityqueue.h
+iostream
+-
+
+/Users/anuuthomson/ClionProjects/HF-ICT-AAD_AG/PriorityQueue/priorityqueue.h
+array
+-
+iostream
+-
+
